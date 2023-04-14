@@ -1,0 +1,76 @@
+{
+    "platos": [
+      {
+        "id": 1,
+        "nombre": "Pizza Catupiry con Pollo",
+        "precio": 54000,
+        "categoria": 1
+      },
+      {
+        "id": 2,
+        "nombre": "Pizza Muzarella",
+        "precio": 50000,
+        "categoria": 1
+      },
+      {
+        "id": 3,
+        "nombre": "Churrasquito",
+        "precio": 10000,
+        "categoria": 1
+      },
+      {
+        "id": 4,
+        "nombre": "Postre de Chocolate",
+        "precio": 20000,
+        "categoria": 3
+      },
+      {
+        "id": 5,
+        "nombre": "Coca Cola",
+        "precio": 15000,
+        "categoria": 2
+      },
+      {
+        "id": 6,
+        "nombre": "Lomito Arabe",
+        "precio": 22000,
+        "categoria": 1
+      },
+      {
+        "id": 7,
+        "nombre": "Papas Fritas",
+        "precio": 10000,
+        "categoria": 1
+      },
+      {
+        "id": 8,
+        "nombre": "Jugo de Naranja",
+        "precio": 15000,
+        "categoria": 2
+      },
+      {
+        "id": 9,
+        "nombre": "cerveza",
+        "precio": 10000,
+        "categoria": 2
+      },
+      {
+        "id": 10,
+        "nombre": "Pay de Limon",
+        "precio": 8000,
+        "categoria": 3
+      },
+      {
+        "id": 11,
+        "nombre": "Café Americano",
+        "precio": 22000,
+        "categoria": 2
+      },
+      {
+        "id": 12,
+        "nombre": "Café Capuchino",
+        "precio": 20000,
+        "categoria": 2
+      }
+    ]
+  }
